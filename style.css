@@ -1,0 +1,31 @@
+header {
+    background-color: #fffbf0;
+    padding: 30px;
+  }
+  main{
+    background-color: #FFFFFF;
+  }
+  h1{
+    font-size: 4.5rem;
+
+  }
+  .header-p{
+    font-size: 25px;
+  }
+  .bg-color-img {
+    background-color: #F1F1F1;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+div h2{
+     margin: 40px 0;
+     font-size: 40px; 
+}
+
+.border-rounden {
+    border-radius: 15px;
+    margin: 5px 0;
+    border: none;
+    box-shadow: 0px 0px 2px 0px gainsboro;
+}
